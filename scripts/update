@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# set ft=bash
+
+git fetch
+git merge
+./scripts/bootstrap

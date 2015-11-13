@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# set ft=bash
+
+# Script to build html in _site folder
+
+jekyll build

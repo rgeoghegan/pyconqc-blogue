@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# set ft=bash
+
+gem install -v 3.0.0 jekyll
